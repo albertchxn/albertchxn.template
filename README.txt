@@ -1,2 +1,2 @@
-# Personal Website
-### Personal Portfolio Website Hosted Through GitHub Pages
+Personal Website
+Personal Portfolio Website Hosted Through GitHub Pages
